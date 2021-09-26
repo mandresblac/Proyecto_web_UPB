@@ -4,4 +4,4 @@ Integrrantes:
 - Edwin Andres Gamboa Gonzalez,
 - Felix Mauricio Puello Choperena,
 - Henry Alberto Calderon Ferez
-- Manuel Andres, Blanco Clavijo
+- Manuel Andres Blanco Clavijo
